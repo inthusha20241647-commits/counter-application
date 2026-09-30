@@ -12,7 +12,7 @@ A simple **React Counter App** built using `useState`.
 ## 📸 Screenshot
 
 <div align="center">
-  <img src=".src/counter.png" width:"400" alt="counter application">
+  <img src="./src/counter.png" width:"400" alt="counter application">
 </div>
 
 
