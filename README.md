@@ -15,6 +15,9 @@ A simple **React Counter App** built using `useState`.
   <img src="./src/counter.png" width:"400" alt="counter application">
 </div>
 
+## 🚀 Live Demo
+
+🔗 https://counter-application-woad-ten.vercel.app/
 
 
 ## 🛠️ Built With
