@@ -1,27 +1,49 @@
-# 🔢 Counter App
+# React Utility Dashboard
 
-A simple **React Counter App** built using `useState`.
+A small React dashboard with a counter and a random number generator. It uses
+React state and event handlers to update the interface when you interact with
+the buttons.
 
-## ✨ Features
+## Features
 
-* ➕ Increment the count
-* ➖ Decrement the count
-* 🔄 Reset the count
-* 🚫 Prevents the count from going below 0
+- **Counter**
+  - Increment and decrement the count.
+  - The count cannot go below zero.
+  - Shows **“Minimum limit reached”** when the count is zero.
+  - Reset the count to zero.
+- **Random Number Generator**
+  - Shows **“No number generated yet”** until the first number is generated.
+  - Generate a random whole number between 1 and 100.
+- **Responsive styling**
+  - Presents each utility in its own card.
+  - Uses a light blue-gray page background and adapts to smaller screens.
 
-## 📸 Screenshot
+## Screenshot
 
 <div align="center">
   <img src="./src/counter.png" width:"400" alt="counter application">
 </div>
 
-## 🚀 Live Demo
+## Live Demo
 
-🔗 https://counter-application-woad-ten.vercel.app/
+https://counter-application-woad-ten.vercel.app/
 
+## Run Locally
 
-## 🛠️ Built With
+1. Install the project dependencies:
 
-* ⚛️ React
-* 🟨 JavaScript
-* 🎨 CSS
+   ```bash
+   npm install
+   ```
+
+2. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+## Built With
+
+- React
+- JavaScript
+- CSS
