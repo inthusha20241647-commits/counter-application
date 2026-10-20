@@ -18,12 +18,6 @@ the buttons.
   - Presents each utility in its own card.
   - Uses a light blue-gray page background and adapts to smaller screens.
 
-## Screenshot
-
-<div align="center">
-  <img src="./src/counter.png" width:"400" alt="counter application">
-</div>
-
 ## Live Demo
 
 https://counter-application-woad-ten.vercel.app/
