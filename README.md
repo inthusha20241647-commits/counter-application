@@ -1,22 +1,37 @@
-# React Utility Dashboard
+# ⚛️ React Utility Dashboard
 
-A small React dashboard with a counter and a random number generator. It uses
-React state and event handlers to update the interface when you interact with
-the buttons.
+A small React dashboard with a counter and a random number generator. It uses React state and event handlers to update the interface when you interact with the buttons.
 
-## Features
+## ✨ Features
 
-- **Counter**
-  - Increment and decrement the count.
-  - The count cannot go below zero.
-  - Shows **“Minimum limit reached”** when the count is zero.
-  - Reset the count to zero.
-- **Random Number Generator**
-  - Shows **“No number generated yet”** until the first number is generated.
-  - Generate a random whole number between 1 and 100.
-- **Responsive styling**
-  - Presents each utility in its own card.
-  - Uses a light blue-gray page background and adapts to smaller screens.
+- **🔢 Counter**
+  - ➕ Increment and decrement the count.
+  - 🚫 The count cannot go below zero.
+  - ⚠️ Shows **“Minimum limit reached”** when the count is zero.
+  - 🔄 Reset the count to zero.
+
+- **🎲 Random Number Generator**
+  - 💬 Shows **“No number generated yet”** until the first number is generated.
+  - 🎯 Generate a random whole number between 1 and 100.
+
+- **📱 Responsive Styling**
+  - 🃏 Presents each utility in its own card.
+  - 🎨 Uses a light blue-gray page background.
+  - 📐 Adapts to smaller screens.
+
+## 🛠️ Technologies Used
+
+- ⚛️ React
+- 🟨 JavaScript
+- 🎨 CSS
+
+## 🎯 Concepts Practiced
+
+- `useState`
+- Event handling
+- Conditional rendering
+- Random number generation
+- Responsive design
 
 ## Live Demo
 
